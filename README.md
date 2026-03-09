@@ -1,9 +1,9 @@
-🌟 Skin Analysis Device Website
+#🌟 Skin Analysis Device Website
 
 Welcome to the official website for our Skin Analysis Device.
 This website provides detailed information about the device, showcases its features, and allows visitors to purchase it online.
 
-📌 Features
+#📌 Features
 
 🔹 Learn About the Device – Explore all the functions and benefits of the skin analysis machine.
 
@@ -16,7 +16,7 @@ This website provides detailed information about the device, showcases its featu
 🔹 Interactive Elements – Engaging visuals and intuitive navigation for a smooth user experience.
 
 
-🚀 How to Use
+#🚀 How to Use
 
 Clone the repository:
 
